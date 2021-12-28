@@ -1,0 +1,6 @@
+#q19 Python all tasks
+
+mancity=60
+manutd=51
+score=manutd<mancity
+print(score)
