@@ -1,0 +1,4 @@
+#Python all tasks q2
+
+food = "Anchovies " #this creates a variable called food
+print(food)
