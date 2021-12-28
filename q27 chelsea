@@ -1,0 +1,10 @@
+#Q27 Python all tasks
+
+team=input("Please enter the name of a football team")
+
+if team=="Chelsea":
+    print("blue")
+elif team=="Liverpool":
+    print("red")
+else:
+    print("Team not registered")
