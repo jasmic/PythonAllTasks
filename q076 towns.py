@@ -11,6 +11,6 @@ print(array[0:2])
 
 # # #Q78
 # array = ["Barton","Uttoxeter","Loxley"]
-# print(array[0:1],array[2:3])    #prints Barton Loxley in a list
-# print(array[0:1])               #prints Barton in a list
-# print(array[1:2])               #prints Uttoxeter
+# print(array[0:1],array[2:3])    #prints  ["Loxley"]
+# print(array[0:1])               #prints ["Barton"]
+# print(array[1:2])               #prints ["Uttoxeter"]
